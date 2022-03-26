@@ -1,0 +1,16 @@
+.image {
+  height: 18rem;
+}
+.card {
+  height: 10rem;
+}
+.cart {
+  float: right;
+  width: 200px;
+}
+.box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
